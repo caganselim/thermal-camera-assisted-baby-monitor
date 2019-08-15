@@ -1,2 +1,4 @@
 # thermal-camera-assisted-baby-monitor
-Multiprocessing interface of the thermal camera assisted baby monitor project.
+
+###source: code runs on Raspberry Pi
+###source_server: code runs on a DigitalOcean VPS
