@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 source/test_script_alignment.py
 source/test_script_advanced_alignment.py
+
+* linguist-vendored
+*.css linguist-vendored=false
